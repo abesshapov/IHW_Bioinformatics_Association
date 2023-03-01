@@ -27,10 +27,25 @@
 - используем модель из 5 SNP.
 - для каждого SNP определяем по snpedia рискованные аллели:
   - для rs6025 - A;
+    
+    ![image](https://user-images.githubusercontent.com/45789410/222241012-58d6a29a-b16f-4562-9836-959af71b697a.png)
+
   - для rs1799963 - A;
+    
+    ![image](https://user-images.githubusercontent.com/45789410/222241151-ee03fec5-8242-461a-90ed-a9e22bc4c20e.png)
+
   - для rs8176719 - G;
+  
+    ![image](https://user-images.githubusercontent.com/45789410/222241298-056d5a14-3a92-4ec7-8a86-abc63c1f8843.png)
+
   - для rs2066865 - T;
+    
+    ![image](https://user-images.githubusercontent.com/45789410/222241545-7ca190d9-c793-4240-9090-88edfc2ac43e.png)
+  
   - для rs2036914 - C;
+  
+  ![image](https://user-images.githubusercontent.com/45789410/222242278-2f7bf21f-9fbb-454c-9357-1598b7934e49.png)  
+    
  - определяем количество рискованных аллелей у выбранного человека.
  - обращаемся за определением риска тромбоза к статье https://ashpublications.org/blood/article/120/3/656/30474/Multiple-SNP-testing-improves-risk-prediction-of
  
